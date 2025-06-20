@@ -60,6 +60,7 @@ p {
 
   /* "SAMURAI KITCHEN"　文字との空白を15pxに設定　*/
   margin-right: 15px;
+  }
 
   /* カンマで区切ると複数のクラスに適用可能 */
   .my_navbar_brand,
@@ -99,7 +100,7 @@ p {
 /*ハンバーガーボタンが押されているかを判断するためのチェックボックスは隠す　*/
 #hamburger_btn_check {
   display: none;
-}
+
 }
 
 
